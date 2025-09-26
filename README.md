@@ -1,0 +1,2 @@
+- websocketのサーバーをGolangで実装してみた
+- web側はhtml + javascript
